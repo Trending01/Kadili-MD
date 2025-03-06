@@ -1,9 +1,9 @@
 {
-  "name":"Gojou-MD",
-  "description":"Deploy now your Gojou md ,Brought to you by the David Cyril.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"Kadili-MD",
+  "description":"Deploy now your Kadili-MD ,Brought to you by the Kadili Tech.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/YKVlucn.jpeg",
-  "repository":"https://github.com/DeeCeeXxx/Gojou-MD",
+  "logo":"https://i.ibb.co/TqTGZ0tm/IMG-20250303-WA0037.webp",
+  "repository":"https://github.com/termuxboy-255/Kadili-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Gojo MD",
+      "value":"Kadili MD",
       "required":false
 
     } ,
@@ -56,12 +56,12 @@
     "HEROKU_APY_KEY": {
     "description": "insert your heroku api-key ",
      "value":"",
-	"required" :true
+	"required" :false
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (the name you wrote at the beginning)",
      "value":"",
-	"required" :true
+	"required" :false
     }  
 	  ,
     "SESSION_ID":
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "David Cyril"
+    "value": "Kadili Tech"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '234')",
     "required":false,
-    "value": "2349066528353"
+    "value": "255655126245"
   },
     "WARN_COUNT":
   {
