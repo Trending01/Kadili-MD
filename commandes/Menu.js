@@ -52,7 +52,7 @@ const date = moment().format('DD/MM/YYYY');
     
 let menuMsg = `
 ╭─────────☉
-    *YOWAIMO*
+    *KADILI*
 ╰─────────☉
 
  *⚡KADILI-MD COMMAND LIST⚡*
