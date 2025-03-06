@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-┏━━*Gojou-md* Rank━━┓
+┏━━*Kadili-md* Rank━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
