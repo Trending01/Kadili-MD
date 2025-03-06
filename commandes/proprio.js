@@ -14,7 +14,7 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("This command is for *Gojou-md* owner only");
+    return repondre("This command is for *Kadili-md* owner only");
   }
 
   const {exec}=require("child_process")
