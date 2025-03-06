@@ -42,7 +42,7 @@ const date = moment().format('DD/MM/YYYY');
 │▫️│*CMDs* : ${cm.length} 
 │▫️│*STORAGE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │▫️│*RUNNING ON* : ${os.platform()}
-│▫️│*THEME* : *Gojou-MD*
+│▫️│*THEME* : *Kadili-MD*
 │▫️╰──────────────☉
 ╰──────────────────☉
 ╭───────────────☉
@@ -73,7 +73,7 @@ let menuMsg = `
 *———————————————————————————*
 |▫️Kadili-MD
 |▫️a Multi device whatsapp bot
-|▫️Created by _Dadili tech_
+|▫️Created by _Kadili tech_
 |▫️_Repo_ :https://github.com/termuxboy-255/kadili-md
 *———————————————————————————*
 `;
@@ -82,7 +82,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Gojou-MD*, déveloper David Cyril" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Kadili-MD*, déveloper Kadili Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -92,7 +92,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Gojou*, déveloper David Cyril" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Kadili*, déveloper Kadili Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
