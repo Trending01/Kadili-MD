@@ -34,7 +34,7 @@ zokou({nomCom : "igdl" , categorie : "Download"},async (dest , zk , commandeOpti
 
       //console.log(igvid.data.result[0].url) ;
 
-    zk.sendMessage(dest,{video : {url : igvid.data.result[0].url},caption : "ig video downloader powered by *Gojou-md*",gifPlayback : false },{quoted : ms}) 
+    zk.sendMessage(dest,{video : {url : igvid.data.result[0].url},caption : "ig video downloader powered by *Kadili-md*",gifPlayback : false },{quoted : ms}) 
 
     }
 
@@ -42,7 +42,7 @@ zokou({nomCom : "igdl" , categorie : "Download"},async (dest , zk , commandeOpti
 
 
 
-        zk.sendMessage(dest,{image : {url : igvid.data.result[0].url},caption : "ig image downloader powered by *Gojou-md*"})
+        zk.sendMessage(dest,{image : {url : igvid.data.result[0].url},caption : "ig image downloader powered by *Kadili-md*"})
 
     }
 
@@ -104,7 +104,7 @@ async (dest, zk, commandeOptions) => {
 
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
 
-       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *Gojou-md*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader powered by *Kadili-md*' }, { quoted: ms });
 
       
 
@@ -228,7 +228,7 @@ async (dest, zk, commandeOptions) => {
 
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
 
-       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *Gojou-md*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *Kadili-md*' }, { quoted: ms });
 
       
 
