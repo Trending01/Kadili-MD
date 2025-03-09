@@ -89,7 +89,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": ""
   },
   "STARTING_BOT_MESSAGE":
   {
