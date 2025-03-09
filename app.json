@@ -67,7 +67,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"export SESSION_ID="eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0M1YXpIUFVNMlpsdlFWemk4b2lGMmNRQ0VhUEtFUmFsayszd25nQ3gwOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibUN4UTdyM25Nd3llWHo1K2NrT0xXc3RnenFpUGxrWms5R0tFUkExYnNqVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyQVpaNlZFOXJXRXZLRSthb2dsU3FXelpjeTB4aHh4VWQxSFZoTTRFT2tjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJWc1pUWGVKQVVlU0tYMVNrV3pPekVxc0liS0k0M2lkU0tUdDJnWFk3UUhBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklGdlpnYy9QUDhZZEs2MUZucTd5VmpLZ1BrVkVjUER0RXpLSVpjQ1FyR2s9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkF1bGIzVlNLN0pjMldZdTl0QlE5SE5Kdm1JNlBmOTdDVmlQbVM2K3JTMmM9In19LCJzaWduZWRQc…",
       "required":true
       
     },
