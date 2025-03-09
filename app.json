@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
 	,
@@ -67,8 +67,8 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":""
-	"required":true
+      "value":"",
+      "required":true
       
     },
     "OWNER_NAME":
@@ -81,15 +81,15 @@
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '234')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of togo '255')",
     "required":false,
-    "value": "255655126245"
+    "value": "255655126234"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": ""
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -99,7 +99,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"3",  
+    "value":"",  
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
