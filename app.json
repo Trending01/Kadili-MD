@@ -68,7 +68,7 @@
     {
       "description":"put your session ID, the code you received after pairing code",   
       "value":""
-	    required":true
+	"required":true
       
     },
     "OWNER_NAME":
