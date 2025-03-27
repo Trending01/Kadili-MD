@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/termuxboy-255/kadili-md" target="_blank">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/termuxboy-255/Kadili-MD" target="_blank">
     <img src="https://img.shields.io/badge/Deploy%20to%20Heroku-Click%20Here-purple?style=for-the-badge&logo=heroku" />
 </a>
 </p>
@@ -22,7 +22,7 @@
 ---
 1. **Fork Repo First, [`CLICK HERE`](https://github.com/termuxboy-255/kadili-md/fork) and `Star ⭐ Repository` for support.**
 2. **Get `SESSION ID` BY [`PAIRING CODE`](https://kadili-session.onrender.com) OR BY [`SCANNING QR CODE`](https://kadili-session.onrender.com/wasiqr)** 
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/kadili/Kadili-MD)**
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/termuxboy-255/Kadili-MD)**
 4. **Join WhatsApp Group [`CLICK HERE`](https://chat.whatsapp.com/COb6BreDGJeJvRiDQZ48Ft) for support.**
 
 ## ```Connect With Me``` 🤝
